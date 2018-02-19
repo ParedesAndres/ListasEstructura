@@ -38,6 +38,9 @@ public class AdaptadorPersona extends BaseAdapter {
 
     @Override
     public View getView(int i, View view, ViewGroup viewGroup) {
+
+        View v = view;
+
         return null;
     }
 }
